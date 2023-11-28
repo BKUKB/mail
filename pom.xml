@@ -15,6 +15,9 @@
         <module>mail-order</module>
         <module>mail-product</module>
         <module>mail-ware</module>
+        <module>renren-fast-master</module>
+        <module>renren-generator-master</module>
+        <module>common</module>
     </modules>
 
 
